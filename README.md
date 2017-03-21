@@ -1,3 +1,3 @@
 # hello-world
 
-Second comment
+Second pigment
